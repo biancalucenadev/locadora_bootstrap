@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  .container h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  .form-floating {
+    margin-bottom: 15px;
+  }
+  
+  .form-check, .form-select {
+    margin-bottom: 15px;
+  }
+  
